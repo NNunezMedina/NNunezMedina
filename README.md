@@ -3,6 +3,9 @@
 </div>
 
 ![full stack banner gihub](https://github.com/user-attachments/assets/fe2ce7a1-2e4f-4943-9733-23a8a0fd332f)
+<div align="center">
+<h1 align="center">I am a full stack developer passionate about creating functional solutions with a creative design approach, ensuring both functionality and aesthetics in every project.</h1>
+</div>
 
 <!--
 **NNunezMedina/NNunezMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
