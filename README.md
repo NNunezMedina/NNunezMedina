@@ -7,8 +7,6 @@
 <h4 align="center">I am a full stack developer passionate about creating functional solutions with a creative design approach, ensuring both functionality and aesthetics in every project.</h4>
 </div>
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning React.
 - 💬 Ask me about React or Javascript / Typescript
 - 📫 How to reach me nathalynunezmedina@gmail.com
