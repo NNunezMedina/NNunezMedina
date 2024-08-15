@@ -25,11 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNunezMedina&layout=compact"/>
  </p>
 
- ## Contact me ✨
-  <div style="display: inline_block"><br> 
-    <a href="nathalynunezmedina@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-    <a href="[https://www.linkedin.com/in/samperezr1/](https://www.linkedin.com/in/nathalynunezmedina/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
 
 <!--
 **NNunezMedina/NNunezMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
