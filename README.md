@@ -19,7 +19,11 @@
   </a>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNunezMedina&layout=compact)
+ </p>
 
 <!--
 **NNunezMedina/NNunezMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
