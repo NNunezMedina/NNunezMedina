@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/nathalynunezmedina/">Nathaly Nunez</a> 👋</h1>
+<h2 align="center">Hi, I'm <a href="https://www.linkedin.com/in/nathalynunezmedina/">Nathaly Nunez</a> 👋</h2>
 </div>
 
 ![full stack banner gihub](https://github.com/user-attachments/assets/fe2ce7a1-2e4f-4943-9733-23a8a0fd332f)
