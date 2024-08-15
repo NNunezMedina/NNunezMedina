@@ -15,7 +15,7 @@
  ### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,react,tailwind" /> 
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,react,tailwind,emotion,photoshop,vite,vitest,vscode" /> 
   </a>
 </p>
 
