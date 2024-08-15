@@ -22,7 +22,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNunezMedina&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNunezMedina&layout=compact"/>
  </p>
 
 <!--
