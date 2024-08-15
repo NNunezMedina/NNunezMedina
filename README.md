@@ -12,6 +12,12 @@
 - 📫 How to reach me nathalynunezmedina@gmail.com
 -  <p>⚡ Fun fact <strong>I like ALL Christopher Nolan's movies </strong>.</p>
 
+ ### Frontend
+<td width="50%">
+  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,emotion,tailwind)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular)](https://skillicons.dev)
+</td>
+
 <!--
 **NNunezMedina/NNunezMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
