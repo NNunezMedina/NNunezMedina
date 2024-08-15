@@ -12,8 +12,8 @@
 - 📫 How to reach me nathalynunezmedina@gmail.com
 -  <p>⚡ Fun fact <strong>I like ALL Christopher Nolan's movies </strong>.</p>
 
- ### Frontend
 <p align="center">
+ ### Frontend
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css" /> 
   </a>
