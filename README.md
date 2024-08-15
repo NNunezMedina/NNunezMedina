@@ -13,9 +13,11 @@
 -  <p>⚡ Fun fact <strong>I like ALL Christopher Nolan's movies </strong>.</p>
 
  ### Frontend
-<td width="50%">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</td>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **NNunezMedina/NNunezMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
