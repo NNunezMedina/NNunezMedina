@@ -14,8 +14,7 @@
 
  ### Frontend
 <td width="50%">
-  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,emotion,tailwind)](https://skillicons.dev)
-  [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </td>
 
 <!--
